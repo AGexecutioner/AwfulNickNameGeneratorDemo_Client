@@ -1,2 +1,2 @@
-java -jar AwfulNickNameGenerator_client.jar
+java -jar AwfulNickNameGenerator_Client.jar
 pause>nul
